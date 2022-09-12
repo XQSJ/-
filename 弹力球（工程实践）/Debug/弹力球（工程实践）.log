@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\20572\Desktop\弹力球（工程实践）\弹力球（工程实践）\main.cpp(123,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\20572\Desktop\弹力球（工程实践）\弹力球（工程实践）\main.cpp(128,57): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\20572\Desktop\弹力球（工程实践）\弹力球（工程实践）\main.cpp(128,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\20572\Desktop\弹力球（工程实践）\弹力球（工程实践）\main.cpp(130,57): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\20572\Desktop\弹力球（工程实践）\弹力球（工程实践）\main.cpp(130,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\20572\Desktop\弹力球（工程实践）\弹力球（工程实践）\main.cpp(131,57): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\20572\Desktop\弹力球（工程实践）\弹力球（工程实践）\main.cpp(131,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\20572\Desktop\弹力球（工程实践）\弹力球（工程实践）\main.cpp(132,57): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\20572\Desktop\弹力球（工程实践）\弹力球（工程实践）\main.cpp(132,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\20572\Desktop\弹力球（工程实践）\弹力球（工程实践）\main.cpp(191,18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\20572\Desktop\弹力球（工程实践）\弹力球（工程实践）\main.cpp(192,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  弹力球（工程实践）.vcxproj -> C:\Users\20572\Desktop\弹力球（工程实践）\Debug\弹力球（工程实践）.exe
